@@ -6,7 +6,6 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 
 - **Power BI Desktop**
 - **Microsoft Excel** (for data source)
-- **DAX** (Data Analysis Expressions)
 - **Power Query** (for data transformation)
 
 ## 📈 Dashboard Features
