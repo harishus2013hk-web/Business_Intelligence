@@ -13,15 +13,4 @@ The data was **collected directly from the ESPN Cricinfo website** and organized
 
 ## 🛠️ Methodology
 - Data gathered from ESPN Cricinfo (web source).
-- Cleaned and structured manually into tabular format.
-- Designed into a dashboard using visualization tools (e.g., Power BI, Excel, Tableau).
-
-## 📂 Folder Contents
-- `data/` → Raw and cleaned datasets taken from ESPN.
-- `dashboard/` → Visualization files or exported dashboard images.
-- `README.md` → Documentation for this folder.
-
-## 🚀 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+- Cleaned and structured the data.
